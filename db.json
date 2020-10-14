@@ -1,0 +1,81 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "Fariz",
+          "alamat": "Cirebon",
+          "umur": 24,
+          "nohp": "087729396725"
+        },
+        {
+          "id": 2,
+          "nama": "Bhayu",
+          "alamat": "Bandung",
+          "umur": 24,
+          "nohp": "087729396726"
+        },
+        {
+          "id": 3,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 4,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 5,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 6,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 7,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 8,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 9,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 10,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        },
+        {
+          "id": 11,
+          "nama": "Aji",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "087729396727"
+        }
+    ]
+}
